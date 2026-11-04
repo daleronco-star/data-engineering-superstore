@@ -1,0 +1,12 @@
+# File contenenti credenziali
+.env
+
+# File temporanei Python
+__pycache__/
+*.pyc
+
+# File temporanei Jupyter
+.ipynb_checkpoints/
+
+# File di log
+logs/*.log
